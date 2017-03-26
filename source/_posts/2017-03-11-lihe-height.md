@@ -11,7 +11,7 @@ author: "acrens"
 published: true
 ---
 
-  相信很多前端er都使用过 line-height 来设置行高布局。下面看看官方定义：On block level elements, the line-height property specifies the minimum height of line boxes within the element.On non-replaced inline elements, line-height specifies the height that is used to calculate line box height.
+> 相信很多前端er都使用过 line-height 来设置行高布局。下面看看官方定义：On block level elements, the line-height property specifies the minimum height of line boxes within the element.On non-replaced inline elements, line-height specifies the height that is used to calculate line box height.
 <!-- more -->
 
 ### line-height 取值方式
