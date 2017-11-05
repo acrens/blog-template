@@ -11,6 +11,8 @@ hexo server
 hexo deploy
 
 ### 博客列表
+- [webpack@1.x 基础配置](https://acrens.github.io/2017/11/06/2017-11-05-webpack@1.x/)；
+- [加入新公司的第 45 天](https://acrens.github.io/2017/11/05/2017-11-04-mugu/)；
 - [浏览器渲染那些事之 Reflow、Repaint](https://acrens.github.io/2017/03/23/2017-03-22-reflow&repaint/)；
 - [line-height 取值方式](https://acrens.github.io/2017/03/12/2017-03-11-lihe-height/)；
 - [javascript 中 TDZ 的理解](https://acrens.github.io/2017/01/22/2017-01-22-TDZ/)；
